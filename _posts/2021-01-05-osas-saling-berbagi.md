@@ -6,4 +6,4 @@ image: assets/images/osagi-post.png
 ---
 Di Bulan Ramadhan yang penuh berkah ini, Osas Familia InsyaAllah akan mengadakan acara Bakti Sosial di Rumah Literasi Sagara pada tanggal 8 Mei 2021.
 
-Update Donasi Terkumpul: Rp2.360.500
+Update donasi terkumpul pertanggal 2 Mei 2021: Rp2.360.500
